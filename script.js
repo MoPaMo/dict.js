@@ -1,5 +1,20 @@
-/* If you're feeling fancy you can add interactivity 
-    to your site with Javascript */
+class dict {
+  constructor() {
+    this.key = [];
+    this.value = [];
+  }
+  get length(){
+    return this.key.length
+  }
+  add(a, b){
+    if (b!=null&&b!=null&& this.key.indexOf(a) ==-1){
+    this.key+=a;
+    this.value+=b}
+    
+  }
+  
+  getByKey(a){
+    t
+  }
+}
 
-// prints "hi" in the browser's dev tools console
-console.log("hi");
