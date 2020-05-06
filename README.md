@@ -1,10 +1,12 @@
-# js-dict
+# dict-js
 
-###### js-dict adds a dictionary class to js (dictionarys are very popular in the most progrmming languages, but not 
+##### dict-js adds a dictionary class to javaScript
 
 ---
-In dictionaries (or associative arrays) you can acces objects of an array through a key which can be a number as well as a string. Thats why you call them key➡value pairs.
-Dictionaries are used in Python, 
+
+In a dictionary (also called associative array) you can acces objects of an array through a key, which can be a number as well as a string. Thats why you call them key➡value pairs.
+Dictionaries are used in Python, Java, PHP and many other programming languanges but not in JS!
+So enjoy this little code snippet.
 
 ---
 
@@ -18,9 +20,15 @@ Dictionaries are used in Python,
 
 ---
 
-_© Moritz Mockenhaupt 2020_
+_keep on coding ⌨_
 
 ---
+
+---
+
+---
+
+##### © Moritz Mockenhaupt 2020
 
 ## Made on [Glitch](https://glitch.com/)
 
