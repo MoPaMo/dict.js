@@ -1,6 +1,6 @@
-# dict-js
+# dict.js
 
-##### dict-js adds a dictionary class to javaScript
+##### dict.js adds a dictionary class to javaScript
 
 ---
 
@@ -14,9 +14,11 @@ So enjoy this little code snippet.
 
 * use `add(key, value)` to add a key-value-pair (keys have to be unique)
 
-- use `getByKey()` to get a value by its key
+- use `getByKey(key)` to get a value by its key
 
 - use `length` to get the number of keys (which should also be the number of values)
+
+- use `k(key)` as an. alias for `getByKey()`
 
 ---
 
