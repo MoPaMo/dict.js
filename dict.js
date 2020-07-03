@@ -31,6 +31,9 @@ class dict {
     this.pos = this.key.indexOf(a);
     return this.value[this.pos];
   }
+  k(a){
+  getByKey(a);
+  }
 }
 /*
 use new dict() to create a new dictionary
