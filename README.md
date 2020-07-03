@@ -30,6 +30,5 @@ _keep on coding ⌨_
 
 ##### © Moritz Mockenhaupt 2020
 
-## Made on [Glitch](https://glitch.com/)
 
 \ ゜ o ゜)ノ
