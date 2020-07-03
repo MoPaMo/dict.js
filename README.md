@@ -18,7 +18,7 @@ So enjoy this little code snippet.
 
 - use `length` to get the number of keys (which should also be the number of values)
 
-- use `k(key)` as an. alias for `getByKey()`
+- use `k(key)` as an alias for `getByKey()`
 
 ---
 
