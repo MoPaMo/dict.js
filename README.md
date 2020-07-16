@@ -21,6 +21,16 @@ So enjoy this little code snippet.
 - use `k(key)` as an alias for `getByKey()`
 
 ---
+### example workflow
+
+```javascript
+
+var myDict = new dict();
+myDict.add("gitHub", "awesome");
+myDict.add("coding", "too");
+console.log(myDict.k("coding"));
+alert("Dict's length is "+myDict.length)
+```
 
 _keep on coding ⌨_
 
